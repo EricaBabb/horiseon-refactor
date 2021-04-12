@@ -14,3 +14,6 @@ added alt to images in content div
 
 Added alt to benefit div images
 Removed redundant css code for benefits section
+
+Simplified .footer to semantic element footer
+Removed footer heading and paragraph
