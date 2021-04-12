@@ -11,3 +11,6 @@ Changed content's classes into ids so the navigation would properly link
 Fixed redundant code. i.e. changed each [#id] img to single content img
 Removed unneeded class in reputation management section
 added alt to images in content div
+
+Added alt to benefit div images
+Removed redundant css code for benefits section
