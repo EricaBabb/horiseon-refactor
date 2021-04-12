@@ -6,3 +6,8 @@ Changed header div to "nav"
 Removed Excessive font families in header stylesheet
 Changed .seo to #seo since it is an unique element
 Removed "nav ul" on style sheet; redundant
+
+Changed content's classes into ids so the navigation would properly link
+Fixed redundant code. i.e. changed each [#id] img to single content img
+Removed unneeded class in reputation management section
+added alt to images in content div
