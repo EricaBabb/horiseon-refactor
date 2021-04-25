@@ -13,4 +13,4 @@ A website that offers clients help with their search engine optimization, social
 
 https://ericababb.github.io/horiseon-refactor/
 
-![Alt text](./assets/images/portfolio.png)
+![Alt text](./assets/images/horiseon-screenshot.png)
